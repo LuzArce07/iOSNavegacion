@@ -16,6 +16,7 @@
 		3D17561A23396A0B0049E84B /* NavegacionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D17561923396A0B0049E84B /* NavegacionUITests.swift */; };
 		3D175628233970E40049E84B /* Materia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D175627233970E40049E84B /* Materia.swift */; };
 		3D17562A233972330049E84B /* CalificacionesController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D175629233972330049E84B /* CalificacionesController.swift */; };
+		3DF8A2D2233AB4F8008929A6 /* DetallesMateriaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF8A2D1233AB4F8008929A6 /* DetallesMateriaController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3D17561B23396A0B0049E84B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D175627233970E40049E84B /* Materia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materia.swift; sourceTree = "<group>"; };
 		3D175629233972330049E84B /* CalificacionesController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalificacionesController.swift; sourceTree = "<group>"; };
+		3DF8A2D1233AB4F8008929A6 /* DetallesMateriaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallesMateriaController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				3D17560523396A0B0049E84B /* Info.plist */,
 				3D175627233970E40049E84B /* Materia.swift */,
 				3D175629233972330049E84B /* CalificacionesController.swift */,
+				3DF8A2D1233AB4F8008929A6 /* DetallesMateriaController.swift */,
 			);
 			path = Navegacion;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				3D1755FC23396A070049E84B /* ViewController.swift in Sources */,
 				3D1755FA23396A070049E84B /* AppDelegate.swift in Sources */,
 				3D17562A233972330049E84B /* CalificacionesController.swift in Sources */,
+				3DF8A2D2233AB4F8008929A6 /* DetallesMateriaController.swift in Sources */,
 				3D175628233970E40049E84B /* Materia.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
